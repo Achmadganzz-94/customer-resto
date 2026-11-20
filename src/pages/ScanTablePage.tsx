@@ -34,7 +34,7 @@ interface CustomerSessionResponse {
   data: CustomerSession;
 }
 
-const READER_ID = "customer-qr-reader";
+const READER_ID = "customer-qr-reader";   
 const FILE_READER_ID = "customer-qr-file-reader";
 
 const SESSION_TOKEN_KEY = "customerSessionToken";
